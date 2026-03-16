@@ -1,3 +1,4 @@
+# PT站点域名
 # 馒头
 DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,m-team.cc
@@ -18,5 +19,12 @@ DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,btschool.club
 # 车PT
 DOMAIN-SUFFIX,carpt.net
-#皇后
+# 皇后
 DOMAIN-SUFFIX,open.cd
+
+# 特殊及自定义需直连域名
++.syncthing.net
++.ubuntu.com
++.ubuntu.net
++.ntp.org
+connectivity-check.ubuntu.com
