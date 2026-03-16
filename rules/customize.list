@@ -1,29 +1,29 @@
 # PT站点域名
 # 馒头
-+.m-team.io
-+.m-team.cc
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,m-team.cc
 # 青蛙
-+.qingwapt.com
-+.qingwa.pro
-+.qingwapt.org
+DOMAIN-SUFFIX,qingwapt.com
+DOMAIN-SUFFIX,qingwa.pro
+DOMAIN-SUFFIX,qingwapt.org
 # 聆音
-+.soulvoice.club
+DOMAIN-SUFFIX,soulvoice.club
 # 憨憨
-+.hhanclub.top
-+.hhanclub.net
-+.hhan.club
-+.trackerfile.com
+DOMAIN-SUFFIX,hhanclub.top
+DOMAIN-SUFFIX,hhanclub.net
+DOMAIN-SUFFIX,hhan.club
+DOMAIN-SUFFIX,trackerfile.com
 # 红豆饭
-+.hdfans.org
+DOMAIN-SUFFIX,hdfans.org
 # 学校
-+.btschool.club
+DOMAIN-SUFFIX,btschool.club
 # 车PT
-+.carpt.net
+DOMAIN-SUFFIX,carpt.net
 # 皇后
-+.open.cd
+DOMAIN-SUFFIX,open.cd
 # 特殊及自定义需直连域名
-+.syncthing.net
-+.ubuntu.com
-+.ubuntu.net
-+.ntp.org
-connectivity-check.ubuntu.com
+DOMAIN-SUFFIX,syncthing.net
+DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,ubuntu.net
+DOMAIN-SUFFIX,ntp.org
+DOMAIN,connectivity-check.ubuntu.com
