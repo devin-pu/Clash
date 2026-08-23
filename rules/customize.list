@@ -23,7 +23,5 @@ DOMAIN-SUFFIX,carpt.net
 DOMAIN-SUFFIX,open.cd
 # 特殊及自定义需直连域名
 DOMAIN-SUFFIX,syncthing.net
-DOMAIN-SUFFIX,ubuntu.com
-DOMAIN-SUFFIX,ubuntu.net
 DOMAIN-SUFFIX,ntp.org
 DOMAIN,connectivity-check.ubuntu.com
