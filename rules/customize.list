@@ -25,3 +25,4 @@ DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,syncthing.net
 DOMAIN-SUFFIX,ntp.org
 DOMAIN,connectivity-check.ubuntu.com
+DOMAIN,ntp.ubuntu.com
