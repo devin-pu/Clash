@@ -1,0 +1,7 @@
+# Steam 域名规则；Mihomo domain 规则集文本格式；+.<域名> 表示域名及其所有子域名。
++.s.team
++.steampowered.com
++.steamcommunity.com
++.steamgames.com
++.steamusercontent.com
++.steamstatic.com
